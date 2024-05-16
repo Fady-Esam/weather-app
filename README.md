@@ -20,4 +20,4 @@ Weather App with MVVM Architecture and BLoC Pattern
 
 ## Preview Video
 
-[WeatherApp.webm](https://github.com/Fady-Esam/Weather-App/assets/146977882/6387c6ed-c1cd-4431-b6f2-ac3f3bc27ad1)
+[WeatherApp.webm](https://github.com/Fady-Esam/Weather-App/assets/146977882/b77e76a5-3207-4597-a765-3dd76a63f7ac)
