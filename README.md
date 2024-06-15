@@ -1,7 +1,7 @@
 # Flutter Weather App
 
 <h3>
-        It made with RESTful API using MVVM Architecture and BLoC Pattern. It provides accurate weather updates easily. Users can search by city name and get real-time updates about temperature and weather status
+        Built with RESTful API using MVVM Architecture and BLoC Pattern. It provides accurate weather updates easily. Users can search by city name and get real-time updates about temperature and weather status
 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
