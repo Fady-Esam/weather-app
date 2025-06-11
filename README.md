@@ -7,13 +7,9 @@ A reliable Flutter Weather App delivering accurate, real-time weather data throu
 ## ✨ Features
 
 🌡️ Real-time temperature updates
-
-🔍 Search weather by city name
-
-☁️ Accurate current weather status
-
 ⚡ Fast and easy access to weather information
-
+☁️ Accurate current weather status
+🔍 Search weather by city name
 🎨 Light/Dark Theme Switching
 
 ---
@@ -37,16 +33,18 @@ A reliable Flutter Weather App delivering accurate, real-time weather data throu
 ---
 
 ## 📦 Packages Used
-*  dio
-*  flutter_bloc
-*  equatable
-*  dartz
-*  go_router
-*  get_it
+
+- 🌐 `dio`  
+- 🔁 `flutter_bloc`  
+- ⚖️ `equatable`  
+- 🧮 `dartz`  
+- 🚦 `go_router`  
+- 🗃️ `get_it`
 
 ---
 
 ## 📫 Connect With Me
+
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
