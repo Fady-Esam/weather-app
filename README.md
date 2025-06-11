@@ -6,11 +6,11 @@ A reliable Flutter Weather App delivering accurate, real-time weather data throu
 
 ## ✨ Features
 
-🌡️ Real-time temperature updates
-⚡ Fast and easy access to weather information
-☁️ Accurate current weather status
-🔍 Search weather by city name
-🎨 Light/Dark Theme Switching
+-🌡️ Real-time temperature updates
+-⚡ Fast and easy access to weather information
+-☁️ Accurate current weather status
+-🔍 Search weather by city name
+-🎨 Light/Dark Theme Switching
 
 ---
 
