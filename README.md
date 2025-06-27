@@ -1,7 +1,7 @@
 # 🌤️ Flutter Weather App
 
 A reliable Flutter Weather App delivering accurate, real-time weather data through a clean interface.  
-Engineered for seamless performance by integrating with weather API, it empowers users with precise localized forecasts to confidently plan their day.
+Engineered for seamless performance by integrating with weather API, it empowers users with precise localized forecasts to confidently plan their day.  
 Built with **MVVM** architecture for scalability and maintainability and **BLoC** pattern for predictable and scalable UI logic.
 
 ---
