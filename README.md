@@ -6,7 +6,7 @@ Built with **MVVM** architecture for scalability and maintainability and **BLoC*
 
 ---
 
-## ✨ Features & Highlights
+## ✨ Features
 
 - 🌡️ Real-time temperature updates
 - ⚡ Fast and easy access to weather information
